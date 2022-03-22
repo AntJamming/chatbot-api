@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ac16d43d-673c-4c1d-8b46-c90f762b9d3a": {
+      "ProjectGuid": "ac16d43d-673c-4c1d-8b46-c90f762b9d3a",
+      "DisplayName": "chatClient",
+      "ColorIndex": 0
+    },
+    "5491e374-8b0c-4f7d-804a-b1719aa6a51a": {
+      "ProjectGuid": "5491e374-8b0c-4f7d-804a-b1719aa6a51a",
+      "DisplayName": "chatServer",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,10 @@
+C:\Users\Armando\Source\repos\ChatSocketClient1\bin\Debug\ChatSocketClient1.exe.config
+C:\Users\Armando\Source\repos\ChatSocketClient1\bin\Debug\ChatSocketClient1.exe
+C:\Users\Armando\Source\repos\ChatSocketClient1\bin\Debug\ChatSocketClient1.pdb
+C:\Users\Armando\Source\repos\ChatSocketClient1\obj\Debug\ChatSocketClient1.csprojAssemblyReference.cache
+C:\Users\Armando\Source\repos\ChatSocketClient1\obj\Debug\ChatSocketClient1.Form1.resources
+C:\Users\Armando\Source\repos\ChatSocketClient1\obj\Debug\ChatSocketClient1.Properties.Resources.resources
+C:\Users\Armando\Source\repos\ChatSocketClient1\obj\Debug\ChatSocketClient1.csproj.GenerateResource.cache
+C:\Users\Armando\Source\repos\ChatSocketClient1\obj\Debug\ChatSocketClient1.csproj.CoreCompileInputs.cache
+C:\Users\Armando\Source\repos\ChatSocketClient1\obj\Debug\ChatSocketClient1.exe
+C:\Users\Armando\Source\repos\ChatSocketClient1\obj\Debug\ChatSocketClient1.pdb

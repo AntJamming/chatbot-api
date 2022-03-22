@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "46bbd5ea-3177-4769-8517-66540bb98d62": {
+      "ProjectGuid": "46bbd5ea-3177-4769-8517-66540bb98d62",
+      "DisplayName": "ChatSocketClient1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
